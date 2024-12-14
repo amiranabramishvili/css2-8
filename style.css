@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#SectionDiv {
+    max-width: 1512px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 268px;
+}
+
+#Section {
+    padding: 96px;
+    max-width: 1300px;
+    width: 100%;
+    background: #FFAEAF;
+    margin: 0 auto;
+    margin-top: 64px;
+}
+
+#FeaturesSection {
+    max-width: 1300px;
+    width: 100%;
+    background: #FFF;
+    margin: 0 auto;
+    padding: 64px 0;
+    
+
+}
+
+#TitleDiv {
+    padding: 0px 32px;
+}
+
+#BlogP {
+    margin: 0 auto;
+    color: #ED00A6;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+#ResourcesH {
+    color: #181D27;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px;
+}
+
+#LatestP {
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+#ImgDiv {
+    text-align: left;
+    width: 980px;
+    margin: 0 auto;
+    margin-top: 96px;
+}
+
+#ImgDiv img {
+    border-radius: 16px;
+    width: 440px;
+}
+
+#ImgRightDiv {
+    text-align: right;
+    width: 980px;
+    margin: 0 auto;
+    margin-top: 96px;
+}
+
+#ImgRightDiv img {
+    border-radius: 16px;
+    width: 440px;
+}
+
+#ImgDivLeft {
+    text-align: left;
+    width: 980px;
+    margin: 0 auto;
+    margin-top: 96px;
+
+}
+
+#ImgDivLeft img {
+    border-radius: 16px;
+    width: 440px;
+
+}
